@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="brq.intellij.plugins.commit.checklist.settings.ProjectSettings">
+    <option name="checklistItems">
+      <list>
+        <MessageItem>
+          <option name="fileMask" value="C:\Learn\repyplane" />
+          <option name="value" value="repyplane" />
+        </MessageItem>
+      </list>
+    </option>
+  </component>
+</project>
